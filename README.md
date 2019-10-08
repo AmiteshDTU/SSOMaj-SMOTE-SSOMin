@@ -1,4 +1,4 @@
-# SSO-SMOTE-SSO
+# SSOMaj-SMOTE-SSOMin
 This is a hybrid intelligent sampling technique to tackle class-imbalance in real world datasets. To know more about it please follow the link: https://www.sciencedirect.com/science/article/pii/S1568494619300924. Cite our paper, if you are using it in your research work. 
 
 The citation of our paper is: 
