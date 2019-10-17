@@ -635,7 +635,7 @@ public class SSOmaj_SMOTE_SSOmin {
 	    		
 	    		for(int j=0;j<set.numInstances();j++)
 	    		{
-	    			if(set.instance(j).classValue()==0)
+	    			if(set.instance(j).classValue()==1)
 	    			{
 	    				String inst=set.instance(j).toString();
 	    				
