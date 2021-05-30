@@ -12,6 +12,6 @@ To know more about imbalanced data, please follow this link: https://onlinelibra
 
 Important !!! :
 
-This file requires *.arff extension files. At run time please specify the directory path for input file. The output file will be created in same directory. Please include SSO.jar in your Referenced libraries (in case of Eclipse IDE). For sample, We have provide a *.arff file. 
+This file requires *.arff extension files. At run time please specify the directory path for input file. The output file will be created in same directory. Please include weka jar files or weka_related_jar.jar (which is a weka jar itself) in your Referenced libraries (in case of Eclipse IDE).
 
 
