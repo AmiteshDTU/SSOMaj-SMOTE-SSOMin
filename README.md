@@ -7,7 +7,7 @@ The citation of our paper is:
 
 To know more about imbalanced data, please follow this link: https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.12298. The citation of this paper is:
 
-[2] Susan, Seba, and Amitesh Kumar. "The balancing trick: Optimized sampling of imbalanced datasets—A brief survey of the recent State of the Art." Engineering Reports (2020): e12298.
+[2] Susan, Seba, and Amitesh Kumar. "The balancing trick: Optimized sampling of imbalanced datasets—A brief survey of the recent State of the Art." Engineering Reports 3, no. 4 (2021): e12298.
 
 
 Important !!! :
