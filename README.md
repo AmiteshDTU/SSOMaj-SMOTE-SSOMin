@@ -11,6 +11,8 @@ To know more about imbalanced data, please follow this link: https://onlinelibra
 
 [2] Susan, Seba, and Amitesh Kumar. "The balancing trick: Optimized sampling of imbalanced datasets—A brief survey of the recent State of the Art." Engineering Reports 3, no. 4 (2021): e12298.
 
+For Reading Free PDF, you can get it at: https://www.researchgate.net/publication/344781218_The_balancing_trick_Optimized_sampling_of_imbalanced_datasets-A_brief_survey_of_the_recent_State_of_the_Art
+
 
 Important !!! :
 
