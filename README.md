@@ -5,7 +5,7 @@ The citation of our paper is:
 
 [1] Susan, Seba, and Amitesh Kumar. "SSOMaj-SMOTE-SSOMin: Three-step intelligent pruning of majority and minority samples for learning from imbalanced datasets." Applied Soft Computing 78 (2019): 141-149.
 
-For Reading Free PDF, you can get it at: https://www.researchgate.net/publication/331217920_SSO_Maj_-SMOTE-SSO_Min_Three-step_intelligent_pruning_of_majority_and_minority_samples_for_learning_from_imbalanced_datasets 
+For reading free PDF, you can get it at: https://www.researchgate.net/publication/331217920_SSO_Maj_-SMOTE-SSO_Min_Three-step_intelligent_pruning_of_majority_and_minority_samples_for_learning_from_imbalanced_datasets 
 
 To know more about imbalanced data, please follow this link: https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.12298. The citation of this paper is:
 
